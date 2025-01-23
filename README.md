@@ -5,7 +5,7 @@ About Me: I am a Fashion Designer Currently I Am Learning
 Python, JavaScript, and Git in Govenor House.Experimenting with web development, data structures, and basic algorithms and exploring projects that challenge me to learn and grow every day.
 
 Goals: As a Designer-Owner of my business, I build practical projects to sharpen my skills. I also contribute to beginner-friendly open-source and Opean mind projects. 
-📖 Expand my knowledge in front-end development, backend basics, and cloud technologies
+Expand my knowledge in front-end development, backend basics, and cloud technologies
 
 Skills: short courses: Msoffice, Excel, Freelancer, creative writing, Diploma in Fashion Design, It course agentic ai in Beginner in Python, HTML, CSS, and JavaScript.Exploring the world of Python for automation and data tasks and learning to host and manage projects with GitHub.
 
