@@ -30,13 +30,26 @@ As the **owner of my business**, I am also integrating my technical skills into 
 
 ## 🛠️ Skills & Certifications
 I have completed various short courses and certifications, including:
-- **MS Office & Excel**
-- **Freelancing & Creative Writing**
-- **Diploma in Fashion Design**
-- **IT Course - AI Basics**
-- **Beginner in Python, HTML, CSS, JavaScript**
-- **Exploring Python for automation & data tasks**
-- **Learning GitHub for project hosting & management**
+
+MS Office & Advanced Excel
+
+Freelancing & Creative Writing
+
+Diploma in Fashion Design
+
+Diploma in Photography
+
+IT Course – AI Basics
+
+Beginner in Python, HTML, CSS, JavaScript
+
+Exploring Python for automation & data tasks
+
+Learning GitHub for project hosting & management
+
+Trading Fundamentals (Binary Trading & Crypto Trading)
+
+Cryptocurrency Market Basics & Technical Analysis
 
 ---
 
